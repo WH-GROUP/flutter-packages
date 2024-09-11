@@ -1,6 +1,8 @@
 ## 14.2.7
 
 - Fixes issue so that the parseRouteInformationWithContext can handle non-http Uris.
+- Allows going to a path relatively by prefixing `./`
+- Adds `TypedRelativeGoRoute`
 
 ## 14.2.6
 

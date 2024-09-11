@@ -5,6 +5,7 @@
 ## 2.7.1
 
 - Fixes readme typos and uses code excerpts.
+- Adds `TypedRelativeGoRoute` annotation which supports relative routes.
 
 ## 2.7.0
 
